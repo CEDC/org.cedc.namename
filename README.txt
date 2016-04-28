@@ -8,7 +8,8 @@ How to use
 ----------
 Install by cloning to your CiviCRM extensions directory and then enabling
 as usual for CiviCRM extensions. This will create a new search under
-"civicrm/contact/search/custom/list?reset=1" called "NameName".
+"civicrm/contact/search/custom/list?reset=1" called "NameName (Spam search
+for first name = last name)".
 
 Click on "NameName". This should take you to a page titled "Search For
 Spam Entries Where First Name = Last Name" which has a search button on
