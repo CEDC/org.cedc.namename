@@ -17,3 +17,9 @@ it. Click the Search button.
 You will see a list of Individual contacts on your site that have the
 same first and last name. Now you can use the Actions menu to do what
 you want (group/export/delete/etc.).
+
+Credits
+----------
+ * StackExchange thread: http://civicrm.stackexchange.com/q/10087/26
+ * Original forum thread: https://forum.civicrm.org/index.php?topic=27351.0
+ * Original custom search: http://wiki.civicrm.org/confluence/x/QoFwBw
