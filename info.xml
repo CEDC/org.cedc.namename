@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<extension key="org.cedc.namename" type="module">
+  <file>namename</file>
+  <name>Name Name search</name>
+  <description>Simple CiviCRM search extension to find contacts with same name in first and last name fields -- often spam contacts.</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Laryn - CEDC.org</author>
+    <email>laryn@cedc.org</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">https://github.com/CEDC/org.cedc.namename</url>
+    <url desc="Documentation">https://github.com/CEDC/org.cedc.namename</url>
+    <url desc="Support">https://github.com/CEDC/org.cedc.namename</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2016-04-28</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.2</ver>
+  </compatibility>
+  <comments>This is a new module developed very simply with Civix.</comments>
+  <civix>
+    <namespace>CRM/Namename</namespace>
+  </civix>
+</extension>
