@@ -11,7 +11,7 @@ return array (
     'params' => 
     array (
       'version' => 3,
-      'label' => 'NameName',
+      'label' => 'NameName spam search',
       'description' => 'NameName (Spam search for first name = last name)',
       'class_name' => 'CRM_Namename_Form_Search_NameName',
     ),
